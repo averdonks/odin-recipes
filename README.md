@@ -25,4 +25,4 @@ Git
 
 ## Reflection
 
-Completing this project made me more comfortable with using HTML to build out the structure of webpages and using Git for version control. I look forward to completing many more projects thoughout my odin project journey
+Completing this project made me more comfortable with using HTML to build out the structure of webpages and using Git for version control. I look forward to completing many more projects thoughout my odin project journey!
