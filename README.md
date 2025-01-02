@@ -1,18 +1,27 @@
-# Project: Build a basic recipe website
+# Project: Recipes
 
 ## Description
 
-In this project, I created a basic recipe website using HTML.
-
-## Video Demo
-<video src="videos/odin-recipe-demo.mp4" style="width: 80%; height: 80%" controls></video>
+- In this project, I created a basic recipe website using HTML
 
 ## Skills
 
 HTML
 - Text
 - Lists
-- Links and Images
+- Links and images
 
 Git
 - Version control
+
+## Diagram
+
+![Diagram of the odin-recipes website](images/odin-recipe-diagram.png)
+
+## Video Demo
+
+![Video demo navigating the odin-recipe website](videos/odin-recipe-demo.gif)
+
+## Reflection
+
+Completing this project made me more comfortable with using HTML to build out the structure of webpages and using Git for version control. I look forward to completing many more projects thoughout my odin project journey!
