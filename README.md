@@ -29,4 +29,4 @@ Completing this project made me more comfortable with using HTML to build out th
 
 ## Updates
 
-- 1/4/2025 - Add version 2.0 with some basic CSS additions
+- 1/4/2025 - Add [version 2.0](https://averdonks.github.io/odin-recipes/index-v2.html) with some basic CSS additions
