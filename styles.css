@@ -1,0 +1,68 @@
+/* Set fonts */
+
+* {
+    font-family: "Helvetica", sans-serif;
+}
+
+h1,
+h2 {
+    font-family: "Garamond", serif;
+}
+
+/* Align title, home-link, and center=list */
+
+#title,
+#home-link {
+    text-align: center;
+}
+
+#center-list {
+    display: table;
+    margin: auto
+}
+
+/* Edit link style */
+
+a:hover {
+    text-decoration: none;
+}
+
+a:link {
+    color: rgb(60, 60, 255);
+}
+
+a:visited {
+    color: rgb(143, 42, 238)
+}
+
+/* Text colors */
+
+.red {
+    background-color: rgb(255, 125, 125);
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.blue {
+    background-color: lightblue;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.orange {
+    background-color: lightsalmon;
+}
+
+.brown {
+    background-color: burlywood;
+}
+
+/* Edit home-link spacing */
+
+#home-link {
+    margin-top: 5em;
+}

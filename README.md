@@ -26,3 +26,7 @@ Git
 ## Reflection
 
 Completing this project made me more comfortable with using HTML to build out the structure of webpages and using Git for version control. I look forward to completing many more projects thoughout my odin project journey!
+
+## Updates
+
+- 1/4/2025 - Add version 2.0 with some basic CSS additions
