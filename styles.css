@@ -9,7 +9,7 @@ h2 {
     font-family: "Garamond", serif;
 }
 
-/* Align title, home-link, and center=list */
+/* Align title, home-link, and center list */
 
 #title,
 #home-link {
@@ -18,10 +18,17 @@ h2 {
 
 #center-list {
     display: table;
-    margin: auto
+    margin: auto;
 }
 
 /* Edit link style */
+
+#center-list li {
+    list-style: none;
+    padding: 5px;
+    background-color:rgb(220, 228, 255);
+    margin: 5px;
+}
 
 a:hover {
     text-decoration: none;
